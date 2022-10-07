@@ -1,0 +1,37 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  background-color: rgb(59, 56, 56);
+}
+h1 {
+  text-align: center;
+  color: #fff;
+}
+.main {
+  background-color: black;
+  color: #fff;
+  height: auto;
+  width: 270px;
+  padding: 20px;
+  border-radius: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+#box {
+  position: absolute;
+  top: 15%;
+  /* left: 60px; */
+}
+
+.btn {
+  height: auto;
+  width: 40px;
+  margin: 5px;
+}
+
+.container-fluid {
+  background-color: rgb(112, 106, 106);
+  height: 100%;
+  border: 2px solid re;
+}
